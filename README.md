@@ -54,9 +54,13 @@ Machine Learning Models:
 Evaluation Metrics:
 
 Accuracy
+
 Precision
+
 Recall
+
 F1 Score
+
 ROC-AUC
 
 
@@ -67,9 +71,13 @@ Model Performance
 Logistic Regression emerged as the best-performing model with the following metrics:
 
 Accuracy: 98.25%
+
 Precision: 98.25%
+
 Recall: 96.49%
+
 F1 Score: 98.25%
+
 Random Forest closely followed with an accuracy of 97.37%.
 
 Key Findings
