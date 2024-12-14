@@ -12,7 +12,9 @@ Dataset
 The dataset used is the Breast Cancer Wisconsin (Diagnostic) Dataset, which includes features computed from digitized images of breast mass. These features are grouped into three categories:
 
 1)Mean
+
 2)Standard error
+
 3) "Worst" or largest (mean of the three largest values)
 Features include:
 
@@ -38,9 +40,13 @@ Machine Learning Models:
 
 
 1)Naive Bayes
+
 2)Logistic Regression
+
 3)Random Forest
+
 4)K-Nearest Neighbor (KNN)
+
 5)Neural Network with PCA
 
 
