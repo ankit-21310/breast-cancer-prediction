@@ -15,7 +15,8 @@ The dataset used is the Breast Cancer Wisconsin (Diagnostic) Dataset, which incl
 
 2)Standard error
 
-3) "Worst" or largest (mean of the three largest values)
+3)Worst or largest (mean of the three largest values)
+
 Features include:
 
 Radius, Texture, Perimeter, Area, Smoothness, Compactness, Concavity, Concave Points, Symmetry, and Fractal Dimension.
